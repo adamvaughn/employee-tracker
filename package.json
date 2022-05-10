@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/adamvaughn/employee-tracker#readme",
   "dependencies": {
+    "chalk": "^5.0.1",
     "inquirer": "^8.2.4"
   }
 }
