@@ -1,0 +1,1 @@
+INSERT INTO department SET ?
